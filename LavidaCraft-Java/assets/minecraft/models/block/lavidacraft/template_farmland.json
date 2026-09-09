@@ -1,5 +1,5 @@
 {
-	"credit": "Lad_Flaver, Made with Blockbench",
+	"credit": "Magpyka, Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"particle": "#dirt"
