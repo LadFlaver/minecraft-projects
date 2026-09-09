@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Feature requesting
+about: Request a feature
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
