@@ -1,14 +1,14 @@
 ---
 name: Issue report
-about: Issue reporting
+about: Report an issue
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
 **What project has an issue?**
-Projects are: LavidaCraft, Lad's Skybox, Rail Fix, Cheaper Smithing, LavidaCraft Trim Reimagined,  LavidaCraft Trim Legacy, or the LavidaCraft Website, etc. Please include a game version and/or version number if applicable.
+Please include a game version and/or version number if applicable.
 
 **Describe the issue**
 A clear and concise description of what the issue is.
