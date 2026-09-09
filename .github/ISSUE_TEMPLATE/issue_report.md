@@ -1,8 +1,8 @@
 ---
 name: Issue report
-about: Issue reporting
+about: Report an issue
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
