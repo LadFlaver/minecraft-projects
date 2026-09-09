@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/get_brick",
+  "criteria": {
+    "get_furnace": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:furnace"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.get_furnace.description",
+      "fallback": "Craft a Furnace from Bricks and Stone"
+    },
+    "icon": {
+      "id": "minecraft:furnace"
+    },
+    "title": {
+      "translate": "advancements.story.get_furnace.title",
+      "fallback": "We Need to Cook"
+    }
+  },
+  "requirements": [
+    [
+      "get_furnace"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
+

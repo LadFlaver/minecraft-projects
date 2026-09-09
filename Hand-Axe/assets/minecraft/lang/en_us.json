@@ -1,0 +1,18 @@
+{
+    "handaxe.hand_axe": "Hand Axe",
+    "badtool.lore": "This tool is for decoration only",
+    "advancements.story.camping.description": "Create a Campfire",
+    "advancements.story.camping.title": "Camping!",
+    "advancements.story.get_brick.description": "Craft Bricks by placing Clay on a Campfire",
+    "advancements.story.get_brick.title": "Brick! It's Fun!",
+    "advancements.story.get_copper.description": "Smelt a Copper Ingot",
+    "advancements.story.get_copper.title": "The Copper Age",
+    "advancements.story.get_crafting_table.description": "Make a Crafting Table",
+    "advancements.story.get_crafting_table.title": "Crafty Business!",
+    "advancements.story.get_furnace.description": "Craft a Furnace from Bricks and Stone",
+    "advancements.story.get_furnace.title": "We Need to Cook",
+    "advancements.story.hand_axe.description": "Craft a Hand Axe",
+    "advancements.story.hand_axe.title": "Your First (and Only) Multitool!",
+    "advancements.story.no_tree_punching.description": "Start your journey by gathering Flint from Gravel and Sticks from Leaves to knap a Hand Axe",
+    "advancements.story.no_tree_punching.title": "Don't Punch the Trees!"
+}

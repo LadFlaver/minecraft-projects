@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:story/get_furnace",
+  "criteria": {
+    "get_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.get_copper.description",
+      "fallback": "Smelt a Copper Ingot"
+    },
+    "icon": {
+      "id": "minecraft:copper_ingot"
+    },
+    "title": {
+      "translate": "advancements.story.get_copper.title",
+      "fallback": "The Copper Age"
+    }
+  },
+  "requirements": [
+    [
+      "get_copper"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
+
+

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:blackstone"
+  },
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:lore": [
+        {
+          "translate": "badtool.lore",
+          "fallback": "This tool is for decoration only"
+        }
+      ],
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "minecraft:attack_damage",
+          "id": "attack_damage",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:blackstone"
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:lore": [
+        {
+          "translate": "badtool.lore",
+          "fallback": "This tool is for decoration only"
+        }
+      ],
+      "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:mineable/shovel",
+            "correct_for_drops": false
+          }
+        ],
+        "default_mining_speed": 1
+      },
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "minecraft:attack_damage",
+          "id": "attack_damage",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "minecraft:stone_axe",
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:lore": [
+        {
+          "translate": "stone_axe.lore",
+          "fallback": "This tool is for decoration only"
+        }
+      ],
+      "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:mineable/axe",
+            "correct_for_drops": false
+          }
+        ],
+        "default_mining_speed": 1
+      },
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "minecraft:attack_damage",
+          "id": "attack_damage",
+          "amount": 1,
+          "operation": "add_value"
+        }
+      ],
+      "minecraft:custom_model_data": {
+        "strings": [
+          "vanilla_stone"
+        ]
+      }
+    }
+  }
+}

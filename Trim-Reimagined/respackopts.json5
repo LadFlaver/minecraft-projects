@@ -1,0 +1,27 @@
+{
+    id: "trimReimagined",
+    version: 13,
+    capabilities: ["FileFilter"],
+    conf: {
+        trim: [
+            coast,
+            bolt,
+            dune,
+            eye,
+            flow,
+            host,
+            raiser,
+            rib,
+            sentry,
+            shaper,
+            silence,
+            snout,
+            spire,
+            tide,
+            vex,
+            ward,
+            wayfinder,
+            wild
+        ]
+    }
+}

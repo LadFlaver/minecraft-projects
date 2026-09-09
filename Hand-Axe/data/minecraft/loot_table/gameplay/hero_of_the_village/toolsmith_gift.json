@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_hoe"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_shovel"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/hero_of_the_village/toolsmith_gift"
+}

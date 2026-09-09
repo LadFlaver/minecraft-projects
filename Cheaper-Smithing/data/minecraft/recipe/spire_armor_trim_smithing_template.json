@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "0": "spire_armor_trim_smithing_template",
+        "1": "diamond",
+        "2": "slime_ball",
+        "3": "purpur_block"
+    },
+    "pattern": [
+        "202",
+        "131",
+        "   "
+    ],
+    "result": {
+        "id": "spire_armor_trim_smithing_template",
+        "count": 2
+    }
+}

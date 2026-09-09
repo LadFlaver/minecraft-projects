@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "0": "netherite_upgrade_smithing_template",
+        "1": "diamond",
+        "2": "obsidian",
+        "3": "magma_cream",
+        "4": "nether_brick",
+        "5": "resin_clump"
+    },
+    "pattern": [
+        "202",
+        "343",
+        "151"
+    ],
+    "result": {
+        "id": "netherite_upgrade_smithing_template",
+        "count": 2
+    }
+}

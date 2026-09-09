@@ -1,0 +1,6 @@
+{
+    "condition": "!trimReimagined.trim.spire",
+    "fallback": [
+        "assets/minecraft/textures/trims/entity/humanoid/trim_custom.png"
+    ]
+}

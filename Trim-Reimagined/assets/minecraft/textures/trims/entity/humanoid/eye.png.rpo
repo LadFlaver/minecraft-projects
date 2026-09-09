@@ -1,0 +1,6 @@
+{
+    "condition": "!trimReimagined.trim.eye",
+    "fallback": [
+        "assets/minecraft/textures/trims/entity/humanoid/trim_custom.png"
+    ]
+}

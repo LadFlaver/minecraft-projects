@@ -1,0 +1,6 @@
+{
+    "condition": "!trimReimagined.trim.snout",
+    "fallback": [
+        "assets/minecraft/textures/trims/entity/humanoid_leggings/trim_custom.png"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "condition": "!trimReimagined.trim.flow",
+    "fallback": [
+        "assets/minecraft/textures/trims/entity/humanoid/trim_custom.png"
+    ]
+}

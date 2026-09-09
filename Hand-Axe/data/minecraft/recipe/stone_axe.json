@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    "X "
+  ],
+  "key": {
+    "#": "minecraft:flint",
+    "X": [
+      "minecraft:stick",
+      "minecraft:bone"
+    ]
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:iron_ores",
+            "correct_for_drops": false
+          },
+          {
+            "blocks": "#minecraft:incorrect_for_stone_tool",
+            "correct_for_drops": false
+          },
+          {
+            "blocks": "#minecraft:mineable/axe",
+            "speed": 4,
+            "correct_for_drops": true
+          },
+          {
+            "blocks": "#minecraft:mineable/pickaxe",
+            "speed": 4,
+            "correct_for_drops": true
+          },
+          {
+            "blocks": "#minecraft:mineable/shovel",
+            "speed": 4,
+            "correct_for_drops": true
+          }
+        ]
+      },
+      "minecraft:item_name": {
+        "translate": "handaxe.hand_axe",
+        "fallback": "Hand Axe"
+      },
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "minecraft:attack_damage",
+          "id": "attack_damage",
+          "amount": 5,
+          "operation": "add_value",
+          "slot": "mainhand"
+        },
+        {
+          "type": "minecraft:attack_speed",
+          "id": "attack_speed",
+          "amount": 1.6,
+          "operation": "add_value",
+          "slot": "mainhand"
+        }
+      ],
+      "minecraft:weapon": {
+        "item_damage_per_attack": 1
+      }
+    }
+  }
+}

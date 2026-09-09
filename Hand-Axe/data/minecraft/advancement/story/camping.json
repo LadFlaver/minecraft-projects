@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:story/get_crafting_table",
+  "criteria": {
+    "get_campfire": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:campfire"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.camping.description",
+      "fallback": "Create a Campfire"
+    },
+    "icon": {
+      "id": "minecraft:campfire"
+    },
+    "title": {
+      "translate": "advancements.story.camping.title",
+      "fallback": "Camping!"
+    }
+  },
+  "requirements": [
+    [
+      "get_campfire"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

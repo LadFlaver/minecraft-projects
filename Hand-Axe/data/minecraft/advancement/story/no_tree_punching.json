@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "join_game": {
+      "conditions": {},
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "description": {
+      "announce_to_chat": false,
+      "translate": "advancements.story.no_tree_punching.description",
+      "fallback": "Start your journey by gathering Flint from Gravel and Sticks from Leaves to knap a Hand Axe"
+    },
+    "icon": {
+      "id": "minecraft:oak_log"
+    },
+    "title": {
+      "translate": "advancements.story.no_tree_punching.title",
+      "fallback": "Don't Punch the Trees!"
+    }
+  },
+  "requirements": [
+    [
+      "join_game"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
+

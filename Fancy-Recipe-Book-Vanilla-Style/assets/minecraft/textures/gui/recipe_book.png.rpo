@@ -1,0 +1,6 @@
+{
+    "condition": "!ladsRecipeBookVanilla.betterPageNumberVisibility",
+    "fallback": [
+        "assets/minecraft/textures/gui/recipe_book_visible.png"
+    ]
+}

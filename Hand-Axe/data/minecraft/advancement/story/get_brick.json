@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/camping",
+  "criteria": {
+    "get_brick": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:brick"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.get_brick.description",
+      "fallback": "Craft Bricks by placing Clay on a Campfire"
+    },
+    "icon": {
+      "id": "minecraft:brick"
+    },
+    "title": {
+      "translate": "advancements.story.get_brick.title",
+      "fallback": "Brick! It's Fun!"
+    }
+  },
+  "requirements": [
+    [
+      "get_brick"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
+

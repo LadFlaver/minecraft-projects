@@ -1,0 +1,8 @@
+{
+    id: "ladsRecipeBookOre",
+    version: 13,
+    capabilities: ["FileFilter"],
+    conf: {
+        betterPageNumberVisibility: false
+    }
+}

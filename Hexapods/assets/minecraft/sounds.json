@@ -1,0 +1,90 @@
+{
+  "entity.spider.ambient": {
+	  "replace": true,
+	  "sounds": [
+		{
+			"name": "entity/hexapod/hexapod1",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/hexapod2",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/hexapod3",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/hexapod4",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/hexapod5",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/hexapod6",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/hexapod7",
+			"volume" : 0.5
+		},
+		{
+			"name": "entity/hexapod/silent1"
+		},
+		{
+			"name": "entity/hexapod/silent2"
+		},
+		{
+			"name": "entity/hexapod/silent3"
+		},
+		{
+			"name": "entity/hexapod/silent4"
+		},
+		{
+			"name": "entity/hexapod/silent5"
+		},
+		{
+			"name": "entity/hexapod/silent6"
+		},
+		{
+			"name": "entity/hexapod/silent7"
+		}
+	  ],
+	  "subtitle": "subtitles.entity.spider.ambient"
+  },
+  "entity.spider.death": {
+	  "replace": true,
+	  "sounds": [
+		"block/respawn_anchor/deplete1",
+		"block/respawn_anchor/deplete2"
+	  ],
+	  "subtitle": "subtitles.entity.spider.death"
+  },
+  "entity.spider.hurt": {
+	  "replace": true,
+	  "sounds": [
+		"block/vault/break1",
+		"block/vault/break2",
+		"block/vault/break3",
+		"block/vault/break4"
+	  ],
+	  "subtitle": "subtitles.entity.spider.hurt"
+  },
+  "entity.spider.step": {
+	  "replace": true,
+	  "sounds": [
+		{
+			"name": "entity/hexapod/step1",
+			"volume" : 0.7
+		},
+		{
+			"name": "entity/hexapod/step2",
+			"volume" : 0.7
+		}
+	  ],
+	  "subtitle": "subtitles.block.generic.footsteps"
+  }
+}
+

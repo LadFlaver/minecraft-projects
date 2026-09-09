@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "key": {},
+  "pattern": [],
+  "ingredient": "minecraft:clay_ball",
+  "result": {
+    "id": "brick"
+  },
+  "experience": 0.35,
+  "cookingtime": 1200
+}

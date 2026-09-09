@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:story/no_tree_punching",
+  "criteria": {
+    "get_hand_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stone_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.hand_axe.description",
+      "fallback": "Craft a Hand Axe"
+    },
+    "icon": {
+      "id": "minecraft:stone_axe"
+    },
+    "title": {
+      "translate": "advancements.story.hand_axe.title",
+      "fallback": "Your First (and Only) Multitool!"
+    }
+  },
+  "requirements": [
+    [
+      "get_hand_axe"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

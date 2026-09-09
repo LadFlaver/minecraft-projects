@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/hand_axe",
+  "criteria": {
+    "get_crafting_table": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:crafting_table"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.get_crafting_table.description",
+      "fallback": "Make a Crafting Table"
+    },
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": {
+      "translate": "advancements.story.get_crafting_table.title",
+      "fallback": "Crafty Business!"
+    }
+  },
+  "requirements": [
+    [
+      "get_crafting_table"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
+

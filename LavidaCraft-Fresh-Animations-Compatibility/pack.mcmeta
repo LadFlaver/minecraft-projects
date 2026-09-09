@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Adds compatibility for LavidaCraft and Fresh Animations",
+    "pack_format": 88.0,
+    "min_format": 69.0,
+    "max_format": 88.0
+  }
+}

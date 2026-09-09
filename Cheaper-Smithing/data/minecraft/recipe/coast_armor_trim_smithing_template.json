@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "0": "coast_armor_trim_smithing_template",
+        "1": "diamond",
+        "2": "slime_ball",
+        "3": "cobblestone"
+    },
+    "pattern": [
+        "202",
+        "131",
+        "   "
+    ],
+    "result": {
+        "id": "coast_armor_trim_smithing_template",
+        "count": 2
+    }
+}

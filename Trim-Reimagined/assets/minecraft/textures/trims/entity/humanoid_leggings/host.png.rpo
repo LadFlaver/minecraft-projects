@@ -1,0 +1,6 @@
+{
+    "condition": "!trimReimagined.trim.host",
+    "fallback": [
+        "assets/minecraft/textures/trims/entity/humanoid_leggings/trim_custom.png"
+    ]
+}
