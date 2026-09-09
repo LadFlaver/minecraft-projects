@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Request a feature
-title: ''
-labels: 'enhancement'
+title: "[feature request]: "
+labels: ["enhancement"]
 assignees: ''
 
 ---
