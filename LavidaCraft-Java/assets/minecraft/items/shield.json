@@ -1,0 +1,651 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:base_color",
+    "cases": [
+      {
+        "when": "black",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_black"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "blue",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_blue"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "brown",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_brown"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "cyan",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_cyan"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "gray",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_gray"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "green",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_green"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "light_blue",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_light_blue"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "light_gray",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_light_gray"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "lime",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_lime"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "magenta",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_magenta"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "orange",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_orange"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "pink",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_pink"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "purple",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_purple"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "red",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_red"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "white",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_white"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      },
+      {
+        "when": "yellow",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/lavidacraft/shield/shield_yellow"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield_blocking"
+            },
+            "on_false": {
+              "type": "minecraft:special",
+              "model": {
+                "type": "minecraft:shield"
+              },
+              "base": "minecraft:item/shield"
+            }
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": [
+              "gui",
+              "ground",
+              "fixed"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/lavidacraft/shield/shield_base"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:condition",
+        "property": "minecraft:using_item",
+        "on_true": {
+          "type": "minecraft:special",
+          "model": {
+            "type": "minecraft:shield"
+          },
+          "base": "minecraft:item/shield_blocking"
+        },
+        "on_false": {
+          "type": "minecraft:special",
+          "model": {
+            "type": "minecraft:shield"
+          },
+          "base": "minecraft:item/shield"
+        }
+      }
+    }
+  }
+}

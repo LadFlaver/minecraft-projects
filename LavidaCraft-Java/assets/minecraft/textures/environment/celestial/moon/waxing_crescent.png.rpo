@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.environmentCategory.moon.enabled",
+    "fallback": [
+        "assets/minecraft/textures/environment/celestial/moon/lavidacraft/waxing_crescent_round.png"
+    ]
+}

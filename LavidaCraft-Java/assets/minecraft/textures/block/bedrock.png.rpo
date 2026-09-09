@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.blocksCategory.bedrock.enabled",
+    "fallback": [
+        "assets/minecraft/textures/block/lavidacraft/bedrock_legacy.png"
+    ]
+}

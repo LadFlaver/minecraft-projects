@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.environmentCategory.moon.enabled",
+    "fallback": [
+        "assets/minecraft/textures/environment/celestial/moon/lavidacraft/full_moon_round.png"
+    ]
+}

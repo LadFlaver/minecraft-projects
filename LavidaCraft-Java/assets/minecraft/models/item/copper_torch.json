@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/copper_torch",
+        "layer1": "minecraft:block/lavidacraft/torch_copper_item"
+    }
+}

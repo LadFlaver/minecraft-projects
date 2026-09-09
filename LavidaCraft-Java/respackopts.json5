@@ -1,0 +1,96 @@
+{
+    id: "lavidacraft",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        blocksCategory: {
+            barrels: true,
+            bedrock: [
+                "enabled",
+                "enabledLegacy",
+                "disabled"
+            ],
+            chiseledStoneBricks: true,
+            chorus: true,
+            dragonEgg: true,
+            dragonEggEmission: true,
+            driedKelp: true,
+            farmland: true,
+            glowstone: true,
+            grasslikeSides: true,
+            lilyPads: true,
+            magma: true,
+            pottedCactus: true,
+            railCorners: true,
+            redstone: true,
+            seagrass: true,
+            torches: true
+        },
+        entitiesCategory: {
+            arrows: true,
+            blazes: true,
+            creepers: true,
+            endermen: true,
+            guardianBeams: true,
+            zombies: true,
+        },
+        environmentCategory: {
+            endflash: true,
+            moon: [
+                "enabled",
+                "enabledRound",
+                "disabled"
+            ],
+            sun: false,
+        },
+        guiCategory: {
+            bars: true,
+            blueLoadingScreen: true,
+            equipmentSlots: true,
+            hotbar: true,
+            icons: true,
+            hungerBar: [
+                "ham",
+                "bokChoy"
+            ],
+            shieldIcons: true
+        },
+        itemsCategory: {
+            bonemeal: true,
+            books: true,
+            bottles: true,
+            bows: true,
+            coal: [
+                "enabled",
+                "enabledNoAmber",
+                "disabled"
+            ],
+            cookies: true,
+            crossbows: true,
+            fishingRods: true,
+            maps: true,
+            netheriteSmithingTemplates: true,
+            netheriteTools: true,
+            netheriteToolsEmission: true,
+            netherQuartz: true,
+            netherWarts: true,
+            nuggets: [
+                "named",
+                "all",
+                "false"
+            ],
+            ominousBottles: true,
+            potions: true,
+            seeds: true,
+            sugar: true,
+            waterBuckets: true
+        },
+        miscCategory: {
+            destroy: false,
+            diamondArmor: true,
+            enchantGlint: true,
+            netheriteArmor: true,
+            pumpkinBlur: true
+        }
+    }
+}

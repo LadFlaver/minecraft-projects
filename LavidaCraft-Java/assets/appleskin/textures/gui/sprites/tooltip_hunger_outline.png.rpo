@@ -1,0 +1,6 @@
+{
+    "condition": "!lavidacraft.guiCategory.hungerBar.bokChoy",
+    "fallback": [
+        "assets/appleskin/textures/gui/sprites/lavidacraft/tooltip_hunger_outline_bok_choy.png"
+    ]
+}

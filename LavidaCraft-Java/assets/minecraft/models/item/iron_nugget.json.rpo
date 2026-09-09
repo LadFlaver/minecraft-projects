@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.itemsCategory.nuggets.named",
+    "fallback": [
+        "assets/minecraft/models/item/lavidacraft/iron_nugget.json"
+    ]
+}

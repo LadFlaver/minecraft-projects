@@ -1,0 +1,52 @@
+{
+	"credit": "Magpyka, Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "block/dragon_egg",
+		"1": "block/lavidacraft/dragon_egg_tier_0",
+		"2": "block/lavidacraft/dragon_egg_tier_1",
+		"3": "block/lavidacraft/dragon_egg_tier_2",
+		"4": "block/lavidacraft/dragon_egg_tier_3",
+		"particle": "block/dragon_egg"
+	},
+	"elements": [
+		{
+			"from": [1, 2, 1],
+			"to": [15, 9, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 7]},
+			"faces": {
+				"north": {"uv": [1, 7, 15, 14], "texture": "#0"},
+				"east": {"uv": [1, 8, 15, 15], "texture": "#0"},
+				"south": {"uv": [1, 7, 15, 14], "texture": "#0"},
+				"west": {"uv": [1, 7, 15, 14], "texture": "#0"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#2"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 0, 2],
+			"to": [14, 13, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 11, 7]},
+			"faces": {
+				"north": {"uv": [2, 3, 14, 16], "texture": "#0"},
+				"east": {"uv": [2, 3, 14, 16], "texture": "#0"},
+				"south": {"uv": [2, 3, 14, 16], "texture": "#0"},
+				"west": {"uv": [2, 3, 14, 16], "texture": "#0"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#3"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 13, 4],
+			"to": [12, 16, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 15, 7]},
+			"faces": {
+				"north": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"east": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"west": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#4", "cullface": "up"}
+			}
+		}
+	]
+}

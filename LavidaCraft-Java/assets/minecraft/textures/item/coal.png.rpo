@@ -1,0 +1,6 @@
+{
+    "condition": "lavidacraft.itemsCategory.coal.enabled",
+    "fallback": [
+        "assets/minecraft/textures/item/lavidacraft/coal_alt.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/lavidacraft/template_farmland",
+  "textures": {
+    "side": "minecraft:block/lavidacraft/farmland_side",
+    "top": "minecraft:block/farmland",
+    "dirt": "minecraft:block/dirt"
+  }
+}

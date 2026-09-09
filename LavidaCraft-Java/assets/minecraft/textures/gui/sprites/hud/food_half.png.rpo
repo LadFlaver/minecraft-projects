@@ -1,0 +1,6 @@
+{
+    "condition": "!lavidacraft.guiCategory.hungerBar.bokChoy",
+    "fallback": [
+        "assets/minecraft/textures/gui/sprites/hud/lavidacraft/food_half_bok_choy.png"
+    ]
+}
