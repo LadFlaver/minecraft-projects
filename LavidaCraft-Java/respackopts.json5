@@ -53,6 +53,7 @@
                 "ham",
                 "bokChoy"
             ],
+            shelfMushroomIcons: true,
             shieldIcons: true
         },
         itemsCategory: {
