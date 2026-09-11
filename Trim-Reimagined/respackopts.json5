@@ -5,7 +5,6 @@
     conf: {
         trim: [
             coast,
-            bolt,
             dune,
             eye,
             flow,
@@ -21,7 +20,8 @@
             vex,
             ward,
             wayfinder,
-            wild
+            wild,
+            bolt
         ]
     }
 }
