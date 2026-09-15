@@ -11,6 +11,7 @@ Updates:
  - Updated the Nether Quartz texture slightly
  - Updated existing map textures. Filled maps will no longer show markings for Minecraft versions older than 26.3
  - Updated the Coal and Coal without amber texture
+ - Reduced emissiveness of the Netherite Tool textures by 50%
 Fixes:
  - Removed many unused files and well as ones that were already meant to be removed
  - Added Blaze textures to the correct directory
