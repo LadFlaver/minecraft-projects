@@ -1,8 +1,8 @@
 {
   "pack": {
     "description": "Changes music discs to cassette tapes, by \u00A73Magpyka",
-    "pack_format": 88.0,
+    "pack_format": 97.1,
     "min_format": 69.0,
-    "max_format": 88.0
+    "max_format": 97.1
   }
 }
