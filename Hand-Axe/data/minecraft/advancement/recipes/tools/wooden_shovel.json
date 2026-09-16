@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_stick": {
+    "has_nether_wood": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
@@ -11,25 +11,18 @@
             ]
           }
         ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "has_the_recipe": {
-      "conditions": {
-        "recipe": "minecraft:wooden_shovel"
-      },
-      "trigger": "minecraft:recipe_unlocked"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_stick"
+      "has_nether_wood"
     ]
   ],
   "rewards": {
     "recipes": [
       "minecraft:wooden_shovel"
     ]
-  }
+  },
+  "sends_telemetry_event": false
 }

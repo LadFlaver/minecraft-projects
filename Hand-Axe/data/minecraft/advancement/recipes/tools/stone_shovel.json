@@ -1,32 +1,25 @@
 {
-  "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_cobblestone": {
+    "has_blackstone": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": "minecraft:blackstone"
           }
         ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "has_the_recipe": {
-      "conditions": {
-        "recipe": "minecraft:stone_shovel"
-      },
-      "trigger": "minecraft:recipe_unlocked"
+      }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_cobblestone"
+      "has_blackstone"
     ]
   ],
   "rewards": {
     "recipes": [
       "minecraft:stone_shovel"
     ]
-  }
+  },
+  "sends_telemetry_event": false
 }
