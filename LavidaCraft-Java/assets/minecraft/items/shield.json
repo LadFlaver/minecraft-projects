@@ -13,7 +13,9 @@
             {
               "when": [
                 "gui",
-                "ground"
+                "ground",
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -51,7 +53,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -89,7 +92,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -127,7 +131,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -165,7 +170,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -203,7 +209,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -241,7 +248,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -279,7 +287,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -317,7 +326,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -355,7 +365,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -393,7 +404,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -431,7 +443,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -469,7 +482,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -507,7 +521,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -545,7 +560,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -583,7 +599,8 @@
               "when": [
                 "gui",
                 "ground",
-                "fixed"
+                "fixed",
+                "on_shelf"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -620,7 +637,8 @@
           "when": [
               "gui",
               "ground",
-              "fixed"
+              "fixed",
+                "on_shelf"
           ],
           "model": {
             "type": "minecraft:model",
