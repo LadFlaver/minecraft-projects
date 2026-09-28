@@ -10,6 +10,7 @@
                 "enabledLegacy",
                 "disabled"
             ],
+            beds: true
             chiseledStoneBricks: true,
             chorus: true,
             dragonEgg: true,

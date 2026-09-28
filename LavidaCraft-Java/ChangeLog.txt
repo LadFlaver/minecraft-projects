@@ -1,3 +1,8 @@
+LavidaCraft 1.18 {
+New Features:
+ - Added custom Bed models (no added textures for them to function)
+}
+
 LavidaCraft 1.17 {
 New Features:
  - Added support for the new maps
