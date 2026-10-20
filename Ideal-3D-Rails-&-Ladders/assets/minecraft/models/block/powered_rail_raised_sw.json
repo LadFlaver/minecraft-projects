@@ -1,4 +1,5 @@
 {
+	"format_version": "26.3",
 	"credit": "Lad_Flaver, Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
@@ -92,9 +93,9 @@
 		},
 		{
 			"name": "rail1",
-			"from": [2, 0.5, 0],
-			"to": [4, 1.5, 22.627],
-			"rotation": {"angle": -45, "axis": "x", "origin": [2, 1.5, 0]},
+			"from": [2.002, 0.5, 0],
+			"to": [3.998, 1.5, 22.627],
+			"rotation": {"angle": -45, "axis": "x", "origin": [2.002, 1.5, 0]},
 			"faces": {
 				"east": {"uv": [1.5, 0, 2, 12], "rotation": 90, "texture": "#2"},
 				"west": {"uv": [1, 0, 1.5, 12], "rotation": 270, "texture": "#2"}
@@ -102,9 +103,9 @@
 		},
 		{
 			"name": "rail2",
-			"from": [12, 0.5, 0],
-			"to": [14, 1.5, 22.627],
-			"rotation": {"angle": -45, "axis": "x", "origin": [12, 1.5, 0]},
+			"from": [12.002, 0.5, 0],
+			"to": [13.998, 1.5, 22.627],
+			"rotation": {"angle": -45, "axis": "x", "origin": [12.002, 1.5, 0]},
 			"faces": {
 				"east": {"uv": [6.5, 0, 7, 12], "rotation": 90, "texture": "#2"},
 				"west": {"uv": [6, 0, 6.5, 12], "rotation": 270, "texture": "#2"}
@@ -124,9 +125,9 @@
 		},
 		{
 			"name": "gold1",
-			"from": [4, 0, 0],
-			"to": [5, 1, 22.627],
-			"rotation": {"angle": -45, "axis": "x", "origin": [4, 1, 0]},
+			"from": [4.002, 0, 0],
+			"to": [4.998, 1, 22.627],
+			"rotation": {"angle": -45, "axis": "x", "origin": [4.002, 1, 0]},
 			"faces": {
 				"east": {"uv": [2, 0, 2.5, 12], "rotation": 90, "texture": "#3"},
 				"west": {"uv": [2, 0, 2.5, 12], "rotation": 270, "texture": "#3"}
@@ -134,9 +135,9 @@
 		},
 		{
 			"name": "gold2",
-			"from": [11, 0, 0],
-			"to": [12, 1, 22.627],
-			"rotation": {"angle": -45, "axis": "x", "origin": [11, 1, 0]},
+			"from": [11.002, 0, 0],
+			"to": [11.998, 1, 22.627],
+			"rotation": {"angle": -45, "axis": "x", "origin": [11.002, 1, 0]},
 			"faces": {
 				"east": {"uv": [5.5, 0, 6, 12], "rotation": 90, "texture": "#3"},
 				"west": {"uv": [5.5, 0, 6, 12], "rotation": 270, "texture": "#3"}
