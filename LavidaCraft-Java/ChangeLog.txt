@@ -1,6 +1,9 @@
 LavidaCraft 1.18 {
 New Features:
  - Added custom Bed models (no added textures for them to function)
+ - Added Pickaxe textures
+Updates:
+ - Updated the Bedrock texture (yet again) (in-progress)
 }
 
 LavidaCraft 1.17 {

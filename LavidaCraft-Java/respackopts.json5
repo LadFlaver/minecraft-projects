@@ -4,13 +4,12 @@
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
         blocksCategory: {
-            barrels: true,
             bedrock: [
                 "enabled",
                 "enabledLegacy",
                 "disabled"
             ],
-            beds: true
+            beds: true,
             chiseledStoneBricks: true,
             chorus: true,
             dragonEgg: true,
@@ -25,6 +24,7 @@
             railCorners: true,
             redstone: true,
             seagrass: true,
+            barrels: true,
             torches: true
         },
         entitiesCategory: {
@@ -82,6 +82,7 @@
                 "false"
             ],
             ominousBottles: true,
+            pickaxes: true,
             potions: true,
             seeds: true,
             sugar: true,
