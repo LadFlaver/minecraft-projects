@@ -1,0 +1,8 @@
+pack_directory = "../Ideal-3D-Rails-&-Ladders"
+output_file_path = "output/Ideal-3D-Rails-&-Ladders-1.X-26.X"
+validate_pack_metadata_file = false
+automatic_minecraft_quirks_detection = false
+automatic_asset_types_mask_detection = false
+['**']
+force_include = true
+
