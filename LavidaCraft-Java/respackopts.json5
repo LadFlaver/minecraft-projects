@@ -4,6 +4,7 @@
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
         blocksCategory: {
+            banners: true,
             bedrock: [
                 "enabled",
                 "enabledLegacy",
@@ -85,6 +86,7 @@
             pickaxes: true,
             potions: true,
             seeds: true,
+            shieldBanners: true,
             sugar: true,
             waterBuckets: true
         },

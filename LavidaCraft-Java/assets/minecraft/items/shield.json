@@ -13,9 +13,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -26,6 +24,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -52,9 +74,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -65,6 +85,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -91,9 +135,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -104,6 +146,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -130,9 +196,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -143,6 +207,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -169,9 +257,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -182,6 +268,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -208,9 +318,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -221,6 +329,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -247,9 +379,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -260,6 +390,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -286,9 +440,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -299,6 +451,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -325,9 +501,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -338,6 +512,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -364,9 +562,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -377,6 +573,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -403,9 +623,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -416,6 +634,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -442,9 +684,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -455,6 +695,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -481,9 +745,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -494,6 +756,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -520,9 +806,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -533,6 +817,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -559,9 +867,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -572,6 +878,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -598,9 +928,7 @@
             {
               "when": [
                 "gui",
-                "ground",
-                "fixed",
-                "on_shelf"
+                "ground"
               ],
               "model": {
                 "type": "minecraft:model",
@@ -611,6 +939,30 @@
           "fallback": {
             "type": "minecraft:condition",
             "property": "minecraft:using_item",
+            "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
             "on_true": {
               "type": "minecraft:special",
               "model": {
@@ -635,10 +987,8 @@
       "cases": [
         {
           "when": [
-              "gui",
-              "ground",
-              "fixed",
-                "on_shelf"
+            "gui",
+            "ground"
           ],
           "model": {
             "type": "minecraft:model",
@@ -649,6 +999,30 @@
       "fallback": {
         "type": "minecraft:condition",
         "property": "minecraft:using_item",
+        "transformation": {
+                "left_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "right_rotation": [
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "scale": [
+                  1,
+                  -1,
+                  -1
+                ],
+                "translation": [
+                  0,
+                  0,
+                  0
+                ]
+              },
         "on_true": {
           "type": "minecraft:special",
           "model": {
