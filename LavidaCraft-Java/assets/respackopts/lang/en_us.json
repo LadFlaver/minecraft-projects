@@ -1,6 +1,5 @@
 { 
     "rpo.lavidacraft": "LavidaCraft Configuration",
-    "rpo.lavidacraft.preset.everythingOff": "Everything Off",
 
     "rpo.lavidacraft.blocksCategory": "Block Options",
         "rpo.lavidacraft.blocksCategory.banners": "Banners",
@@ -17,7 +16,7 @@
         "rpo.lavidacraft.blocksCategory.chiseledStoneBricks": "Centered Chiseled Stone Bricks",
             "rpo.lavidacraft.blocksCategory.chiseledStoneBricks.true": "\u00a7aEnabled",
             "rpo.lavidacraft.blocksCategory.chiseledStoneBricks.false": "\u00a7cDisabled",
-        "rpo.lavidacraft.blocksCategory.beds": "Chorus Flowers",
+        "rpo.lavidacraft.blocksCategory.beds": "Beds",
             "rpo.lavidacraft.blocksCategory.beds.true": "\u00a7aEnabled",
             "rpo.lavidacraft.blocksCategory.beds.false": "\u00a7cDisabled",
         "rpo.lavidacraft.blocksCategory.chorus": "Chorus Flowers",
