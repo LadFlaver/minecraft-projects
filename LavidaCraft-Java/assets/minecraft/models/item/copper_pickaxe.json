@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/copper_pickaxe",
-    "layer1": "minecraft:item/lavidacraft/copper_pickaxe_overlay"
-  }
-}
