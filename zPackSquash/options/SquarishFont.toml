@@ -1,8 +1,5 @@
 pack_directory = "../SquarishFont"
 output_file_path = "output/SquarishFont-1.X-26.X"
-validate_pack_metadata_file = false
-automatic_minecraft_quirks_detection = false
-automatic_asset_types_mask_detection = false
 ['**']
 force_include = true
 

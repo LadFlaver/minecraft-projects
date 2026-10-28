@@ -1,8 +1,5 @@
 pack_directory = "../Fancy-Recipe-Book-OreUI-Style"
 output_file_path = "output/Fancy-Recipe-Book-OreUI-Style-1.X-26.X"
-validate_pack_metadata_file = false
-automatic_minecraft_quirks_detection = false
-automatic_asset_types_mask_detection = false
 ['**']
 force_include = true
 
