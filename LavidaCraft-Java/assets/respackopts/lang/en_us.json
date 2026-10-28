@@ -1,5 +1,6 @@
 { 
     "rpo.lavidacraft": "LavidaCraft Configuration",
+    "rpo.lavidacraft.preset.everythingOff": "Everything Off",
 
     "rpo.lavidacraft.blocksCategory": "Block Options",
         "rpo.lavidacraft.blocksCategory.banners": "Banners",
@@ -187,7 +188,7 @@
         "rpo.lavidacraft.itemsCategory.nuggets": "Nugget Coins",
             "rpo.lavidacraft.itemsCategory.nuggets.named": "\u00a7aEnabled (Named only)",
             "rpo.lavidacraft.itemsCategory.nuggets.all": "\u00a7bEnabled (All nuggets)",
-            "rpo.lavidacraft.itemsCategory.nuggets.false": "\u00a7cDisabled",
+            "rpo.lavidacraft.itemsCategory.nuggets.disabled": "\u00a7cDisabled",
             "rpo.lavidacraft.itemsCategory.nuggets.tooltip": "Affects copper, gold, and iron nuggets (Makes them look like coins). Multiple options available",
         "rpo.lavidacraft.itemsCategory.ominousBottles": "Ominous Bottles",
             "rpo.lavidacraft.itemsCategory.ominousBottles.true": "\u00a7aEnabled",

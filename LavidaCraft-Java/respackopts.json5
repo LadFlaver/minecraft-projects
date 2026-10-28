@@ -80,7 +80,7 @@
             nuggets: [
                 "named",
                 "all",
-                "false"
+                "disabled"
             ],
             ominousBottles: true,
             pickaxes: true,
