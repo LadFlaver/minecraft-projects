@@ -1,5 +1,5 @@
 pack_directory = "../Hexapods"
-output_file_path = "output/Hexapods-1.X-26.X"
+output_file_path = "output/Hexapods-1.X.zip"
 ['**']
 force_include = true
 

@@ -1,5 +1,5 @@
 pack_directory = "../Hollow-Skeletons"
-output_file_path = "output/Hollow-Skeletons-1.X-26.X"
+output_file_path = "output/Hollow-Skeletons-1.X.zip"
 ['**']
 force_include = true
 

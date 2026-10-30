@@ -1,5 +1,5 @@
 pack_directory = "../Fancy-Recipe-Book-Vanilla-Style"
-output_file_path = "output/Fancy-Recipe-Book-Vanilla-Style-1.X-26.X"
+output_file_path = "output/Fancy-Recipe-Book-Vanilla-Style-1.X.zip"
 ['**']
 force_include = true
 

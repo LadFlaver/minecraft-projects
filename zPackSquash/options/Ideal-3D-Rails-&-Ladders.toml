@@ -1,5 +1,5 @@
 pack_directory = "../Ideal-3D-Rails-&-Ladders"
-output_file_path = "output/Ideal-3D-Rails-&-Ladders-1.X-26.X"
+output_file_path = "output/Ideal-3D-Rails-&-Ladders-1.X.zip"
 ['**']
 force_include = true
 

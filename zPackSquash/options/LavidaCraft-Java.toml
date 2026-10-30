@@ -1,5 +1,5 @@
 pack_directory = "../LavidaCraft-Java"
-output_file_path = "output/LavidaCraft-1.X"
+output_file_path = "output/LavidaCraft-1.X.zip"
 ['**']
 force_include = true
 

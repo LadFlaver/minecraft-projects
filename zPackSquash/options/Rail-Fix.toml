@@ -1,5 +1,5 @@
 pack_directory = "../Rail-Fix"
-output_file_path = "output/Rail-Fix-1.X-26.X"
+output_file_path = "output/Rail-Fix-1.X.zip"
 ['**']
 force_include = true
 

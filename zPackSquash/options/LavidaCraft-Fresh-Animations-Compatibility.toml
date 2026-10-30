@@ -1,5 +1,5 @@
 pack_directory = "../LavidaCraft-Fresh-Animations-Compatibility"
-output_file_path = "output/LavidaCraft-Fresh-Animations-Compatibility-1.X"
+output_file_path = "output/LavidaCraft-Fresh-Animations-Compatibility-1.X.zip"
 ['**']
 force_include = true
 
