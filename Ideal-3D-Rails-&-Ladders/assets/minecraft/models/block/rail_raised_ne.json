@@ -1,6 +1,5 @@
 {
-	"format_version": "26.3",
-	"credit": "Lad_Flaver, Made with Blockbench",
+	"credit": "Magpyka, Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"2": "block/lads3d/rail_base",
@@ -9,9 +8,9 @@
 	"elements": [
 		{
 			"name": "tie1",
-			"from": [1, 0, -5.689],
-			"to": [15, 1, -3.803],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, -4.746],
+			"to": [15, 1, -2.86],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"north": {"uv": [15.5, 0.5, 8.5, 1], "texture": "#2"},
 				"south": {"uv": [15.5, 1, 8.5, 1.5], "texture": "#2"}
@@ -19,9 +18,9 @@
 		},
 		{
 			"name": "tie2",
-			"from": [1, 0, -1.917],
-			"to": [15, 1, -0.031],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, -0.974],
+			"to": [15, 1, 0.912],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"north": {"uv": [15.5, 2.5, 8.5, 3], "texture": "#2"},
 				"south": {"uv": [15.5, 3, 8.5, 3.5], "texture": "#2"}
@@ -29,9 +28,9 @@
 		},
 		{
 			"name": "tie3",
-			"from": [1, 0, 1.855],
-			"to": [15, 1, 3.741],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, 2.798],
+			"to": [15, 1, 4.684],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"north": {"uv": [15.5, 4.5, 8.5, 5], "texture": "#2"},
 				"south": {"uv": [8.5, 5, 15.5, 5.5], "texture": "#2"}
@@ -39,9 +38,9 @@
 		},
 		{
 			"name": "tie4",
-			"from": [1, 0, 5.627],
-			"to": [15, 1, 7.513],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, 6.57],
+			"to": [15, 1, 8.456],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"north": {"uv": [15.5, 6.5, 8.5, 7], "texture": "#2"},
 				"south": {"uv": [15.5, 7, 8.5, 7.5], "texture": "#2"}
@@ -49,9 +48,9 @@
 		},
 		{
 			"name": "tie5",
-			"from": [1, 0, 9.399],
-			"to": [15, 1, 11.285],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, 10.342],
+			"to": [15, 1, 12.228],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"north": {"uv": [15.5, 8.5, 8.5, 9], "texture": "#2"},
 				"south": {"uv": [15.5, 9, 8.5, 9.5], "texture": "#2"}
@@ -59,9 +58,9 @@
 		},
 		{
 			"name": "tie6",
-			"from": [1, 0, 13.171],
-			"to": [15, 1, 15.057],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, 14.114],
+			"to": [15, 1, 16],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"north": {"uv": [15.5, 10.5, 8.5, 11], "texture": "#2"},
 				"south": {"uv": [15.5, 11, 8.5, 11.5], "texture": "#2"}
@@ -69,9 +68,9 @@
 		},
 		{
 			"name": "tieAll",
-			"from": [1, 0, -5.689],
-			"to": [15, 1, 15.057],
-			"rotation": {"angle": 45, "axis": "x", "origin": [1, 1.5, 16]},
+			"from": [1, 0, -4.746],
+			"to": [15, 1, 16],
+			"rotation": {"angle": 45, "axis": "x", "origin": [1, 2, 16]},
 			"faces": {
 				"east": {"uv": [15, 0.5, 15.5, 11.5], "rotation": 90, "texture": "#2"},
 				"west": {"uv": [8.5, 0.5, 9, 11.5], "rotation": 270, "texture": "#2"},
@@ -81,9 +80,9 @@
 		},
 		{
 			"name": "rail1",
-			"from": [2.002, 0.5, -6.627],
-			"to": [3.998, 1.5, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [2.002, 1.5, 16]},
+			"from": [2.002, 1, -6.627],
+			"to": [3.998, 2, 16],
+			"rotation": {"angle": 45, "axis": "x", "origin": [2.002, 2, 16]},
 			"faces": {
 				"east": {"uv": [1.5, 0, 2, 12], "rotation": 90, "texture": "#2"},
 				"west": {"uv": [1, 0, 1.5, 12], "rotation": 270, "texture": "#2"}
@@ -91,9 +90,9 @@
 		},
 		{
 			"name": "rail2",
-			"from": [12.002, 0.5, -6.627],
-			"to": [13.998, 1.5, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [12.002, 1.5, 16]},
+			"from": [12.002, 1, -6.627],
+			"to": [13.998, 2, 16],
+			"rotation": {"angle": 45, "axis": "x", "origin": [12.002, 2, 16]},
 			"faces": {
 				"east": {"uv": [6.5, 0, 7, 12], "rotation": 90, "texture": "#2"},
 				"west": {"uv": [6, 0, 6.5, 12], "rotation": 270, "texture": "#2"}
@@ -101,9 +100,9 @@
 		},
 		{
 			"name": "railAll",
-			"from": [2, 0.5, -6.627],
-			"to": [14, 1.5, 16],
-			"rotation": {"angle": 45, "axis": "x", "origin": [12, 1.5, 16]},
+			"from": [2, 1, -6.627],
+			"to": [14, 2, 16],
+			"rotation": {"angle": 45, "axis": "x", "origin": [12, 2, 16]},
 			"faces": {
 				"north": {"uv": [7, 0, 1, 0.5], "texture": "#2"},
 				"south": {"uv": [1, 11.5, 7, 12], "texture": "#2"},
