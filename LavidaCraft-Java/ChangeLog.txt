@@ -2,6 +2,7 @@ LavidaCraft 1.19 {
 Updates:
  - Updated the shelf mushroom item sprite
  - Updated the potted cactus model and texture
+ - Updated redstone and deepslate redstone ore's textures and animations
 }
 
 LavidaCraft 1.18 {
