@@ -1,4 +1,7 @@
 LavidaCraft 1.19 {
+New Features:
+ - Added bed icons (toggled by the existing beds option)
+ - Added language files for AU, CA, and GB
 Updates:
  - Updated the shelf mushroom item sprite
  - Updated the potted cactus model and texture

@@ -19,6 +19,7 @@
         "rpo.lavidacraft.blocksCategory.beds": "Beds",
             "rpo.lavidacraft.blocksCategory.beds.true": "\u00a7aEnabled",
             "rpo.lavidacraft.blocksCategory.beds.false": "\u00a7cDisabled",
+            "rpo.lavidacraft.blocksCategory.beds.tooltip": "Also toggles bed icons",
         "rpo.lavidacraft.blocksCategory.chorus": "Chorus Flowers",
             "rpo.lavidacraft.blocksCategory.chorus.true": "\u00a7aEnabled",
             "rpo.lavidacraft.blocksCategory.chorus.false": "\u00a7cDisabled",
