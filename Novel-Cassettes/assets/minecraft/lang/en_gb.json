@@ -22,5 +22,6 @@
   "item.minecraft.music_disc_tears": "Cassette Tape",
   "item.minecraft.music_disc_lava_chicken": "Cassette Tape",
   "item.minecraft.disc_fragment_5": "Cassette Fragment",
-  "item.minecraft.disc_fragment_5.desc": "Cassette Tape - 5"
+  "item.minecraft.disc_fragment_5.desc": "Cassette Tape - 5",
+  "item.minecraft.music_disc_flurry": "Cassette Tape"
 }
