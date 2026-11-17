@@ -1,3 +1,6 @@
 {
-    "condition": "lavidacraft.itemsCategory.maps"
+    "condition": "!lavidacraft.itemsCategory.maps",
+    "fallback": [
+        "assets/minecraft/textures/item/lavidacraft/map/jungle_pyramid_map.png"
+    ]
 }

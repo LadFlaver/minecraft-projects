@@ -71,7 +71,7 @@
             cookies: true,
             crossbows: true,
             fishingRods: true,
-            maps: true,
+            maps: false,
             netheriteSmithingTemplates: true,
             netheriteTools: true,
             netheriteToolsEmission: true,
@@ -88,6 +88,7 @@
             seeds: true,
             shieldBanners: true,
             sugar: true,
+            redstoneComponents: true,
             waterBuckets: true
         },
         miscCategory: {

@@ -2,10 +2,16 @@ LavidaCraft 1.19 {
 New Features:
  - Added bed icons (toggled by the existing beds option)
  - Added language files for AU, CA, and GB
+ - Added dragon egg compatibility for my other pack Glowing Blocks Fix (it won't do anything unless you are using both packs)
+ - Added custom item textures for comparators, levers, and repeaters
 Updates:
  - Updated the shelf mushroom item sprite
  - Updated the potted cactus model and texture
  - Updated redstone and deepslate redstone ore's textures and animations
+ - Maps are now disabled by default
+ - Updated the bed models to improve their quality
+Fixes:
+ - Fixed an improperly named .rpo file
 }
 
 LavidaCraft 1.18 {

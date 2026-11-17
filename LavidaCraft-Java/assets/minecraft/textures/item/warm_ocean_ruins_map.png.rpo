@@ -1,0 +1,6 @@
+{
+    "condition": "!lavidacraft.itemsCategory.maps",
+    "fallback": [
+        "assets/minecraft/textures/item/lavidacraft/map/warm_ocean_ruins_map.png"
+    ]
+}

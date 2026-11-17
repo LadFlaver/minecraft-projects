@@ -1,0 +1,6 @@
+{
+    "condition": "!lavidacraft.itemsCategory.maps",
+    "fallback": [
+        "assets/minecraft/textures/item/lavidacraft/map/buried_mineshaft_map.png"
+    ]
+}

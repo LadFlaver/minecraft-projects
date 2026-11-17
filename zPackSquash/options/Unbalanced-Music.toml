@@ -1,0 +1,5 @@
+pack_directory = "../Unbalanced-Music"
+output_file_path = "output/Unbalanced-Music-1.X.zip"
+['**']
+force_include = true
+
