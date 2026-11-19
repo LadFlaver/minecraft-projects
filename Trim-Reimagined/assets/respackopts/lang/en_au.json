@@ -1,0 +1,28 @@
+{
+    "rpo.trimReimagined": "Trim Reimagined Configuration",
+
+    "rpo.trimReimagined.netheriteArmor": "Alternate Netherite Armor",
+        "rpo.trimReimagined.netheriteArmor.true": "\u00a7aEnabled",
+        "rpo.trimReimagined.netheriteArmor.false": "\u00a7cDisabled",
+        "rpo.trimReimagined.netheriteArmor.tooltip": "Netherite armor with a slightly altered color palette and look",
+    "rpo.trimReimagined.trim": "Trim",
+        "rpo.trimReimagined.trim.coast": "Coast",
+        "rpo.trimReimagined.trim.dune": "Dune",
+        "rpo.trimReimagined.trim.eye": "Eye",
+        "rpo.trimReimagined.trim.flow": "Flow",
+        "rpo.trimReimagined.trim.host": "Host",
+        "rpo.trimReimagined.trim.raiser": "Raiser",
+        "rpo.trimReimagined.trim.rib": "Rib",
+        "rpo.trimReimagined.trim.sentry": "Sentry",
+        "rpo.trimReimagined.trim.shaper": "Shaper",
+        "rpo.trimReimagined.trim.silence": "Silence",
+        "rpo.trimReimagined.trim.snout": "Snout",
+        "rpo.trimReimagined.trim.spire": "Spire",
+        "rpo.trimReimagined.trim.tide": "Tide",
+        "rpo.trimReimagined.trim.vex": "Vex",
+        "rpo.trimReimagined.trim.ward": "Ward",
+        "rpo.trimReimagined.trim.wayfinder": "Wayfinder",
+        "rpo.trimReimagined.trim.wild": "Wild",
+        "rpo.trimReimagined.trim.bolt": "Bolt",
+        "rpo.trimReimagined.trim.tooltip": "Determines which armor trim is replaced"
+}

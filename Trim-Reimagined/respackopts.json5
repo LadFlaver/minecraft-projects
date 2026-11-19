@@ -1,8 +1,9 @@
 {
     id: "trimReimagined",
     version: 13,
-    capabilities: ["FileFilter"],
+    capabilities: ["FileFilter", "DirFilter"],
     conf: {
+        netheriteArmor: true,
         trim: [
             coast,
             dune,
