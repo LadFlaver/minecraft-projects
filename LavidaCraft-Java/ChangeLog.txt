@@ -10,6 +10,7 @@ Updates:
  - Updated redstone and deepslate redstone ore's textures and animations
  - Maps are now disabled by default
  - Updated the bed models to improve their quality
+ - Updated the Moon's textures to have higher contrast and saturation
 Fixes:
  - Fixed an improperly named .rpo file
 }
