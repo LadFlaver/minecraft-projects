@@ -1,0 +1,24 @@
+{
+	"credit": "Magpyka, Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "block/dragon_egg",
+		"1": "block/lavidacraft/dragon_egg_tier_0",
+		"4": "block/lavidacraft/dragon_egg_tier_3",
+		"particle": "block/dragon_egg"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"east": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#4"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#1"}
+			}
+		}
+	]
+}

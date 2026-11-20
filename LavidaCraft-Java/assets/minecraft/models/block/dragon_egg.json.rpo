@@ -1,3 +1,6 @@
 {
-    "condition": "lavidacraft.blocksCategory.dragonEgg"
+    "condition": "lavidacraft.blocksCategory.dragonEgg.enabled",
+    "fallback": [
+        "assets/minecraft/models/block/lavidacraft/dragon_egg_simple.json"
+    ]
 }

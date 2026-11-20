@@ -4,6 +4,7 @@ New Features:
  - Added language files for AU, CA, and GB
  - Added dragon egg compatibility for my other pack Glowing Blocks Fix (it won't do anything unless you are using both packs)
  - Added custom item textures for comparators, levers, and repeaters
+ - Added a simpler dragon egg model as an option
 Updates:
  - Updated the shelf mushroom item sprite
  - Updated the potted cactus model and texture

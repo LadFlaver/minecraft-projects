@@ -13,7 +13,11 @@
             beds: true,
             chiseledStoneBricks: true,
             chorus: true,
-            dragonEgg: true,
+            dragonEgg: [
+                "enabled",
+                "enabledSimple",
+                "disabled"
+            ],
             dragonEggEmission: true,
             driedKelp: true,
             farmland: true,
